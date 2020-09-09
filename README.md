@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/matthewrichardson0048/testproject/_apis/build/status/EpicMattMan.pipelines-java?branchName=master)](https://dev.azure.com/matthewrichardson0048/testproject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
